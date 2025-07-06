@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Dax233
+# 👋 Hi there, I'm Dax
 
 ## 📊 GitHub Readme Stats
 
