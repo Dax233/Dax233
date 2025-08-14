@@ -16,6 +16,12 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dax233/Dax233/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dax233/Dax233/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dax233/Dax233/output/github-contribution-grid-snake.svg">
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=murapadev&theme=radical" alt="GitHub Trophies" />
+</div>
+ 
 </picture>
 <!--
 **Dax233/Dax233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
