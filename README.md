@@ -19,7 +19,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=murapadev&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Dax233&theme=radical" alt="GitHub Trophies" />
 </div>
  
 </picture>
