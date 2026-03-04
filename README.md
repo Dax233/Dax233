@@ -4,9 +4,10 @@
 
 <div float="right"> 
 
-![Kos-M's github stats](https://github-readme-stats.vercel.app/api?username=Dax233&show_icons=true&theme=gruvbox) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dax233&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<a href="https://github.com/Dax233/GitHub-Language-Stats">
+<img src="https://github.com/Dax233/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/Dax233/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
 
  ![](https://komarev.com/ghpvc/?username=Dax233&color=lightgrey)
 
@@ -17,11 +18,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dax233/Dax233/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dax233/Dax233/output/github-contribution-grid-snake.svg">
 </picture>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dax233&theme=radical" alt="GitHub Trophies" />
-</div>
 
 <!--
 **Dax233/Dax233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
