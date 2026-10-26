@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 280" width="1120" height="280" role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">未來星織 — Starweave</title>
+  <desc id="heroDesc">Ink-blue serif name 未來星織, the alias 达X / Dax, and the ochre motto 用心织梦，以梦织星 at left. At right, a hairline indigo thread fades in over a pale blue wash and weaves past ink-blue stars; the brightest is a sharp ochre star on paper. On narrow screens a mobile composition enlarges the type and compacts the weave. Drawn for a GitHub light page (#ffffff); transparent background.</desc>
+
+  <defs>
+    <filter id="soft" x="-30%" y="-160%" width="160%" height="420%">
+      <feGaussianBlur stdDeviation="13"/>
+    </filter>
+    <linearGradient id="band" gradientUnits="userSpaceOnUse" x1="594" y1="0" x2="1060" y2="0">
+      <stop offset="0" stop-color="#D3E2F7" stop-opacity="0"/>
+      <stop offset="0.22" stop-color="#D3E2F7" stop-opacity="0.65"/>
+      <stop offset="0.55" stop-color="#D3E2F7" stop-opacity="0.85"/>
+      <stop offset="0.82" stop-color="#D3E2F7" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#D3E2F7" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="thread" gradientUnits="userSpaceOnUse" x1="594" y1="0" x2="1060" y2="0">
+      <stop offset="0" stop-color="#1B2A4A" stop-opacity="0"/>
+      <stop offset="0.16" stop-color="#1B2A4A" stop-opacity="0.7"/>
+      <stop offset="0.5" stop-color="#1B2A4A" stop-opacity="1"/>
+      <stop offset="0.82" stop-color="#1B2A4A" stop-opacity="0.72"/>
+      <stop offset="1" stop-color="#1B2A4A" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="bloom">
+      <stop offset="0" stop-color="#E8C67A" stop-opacity="0.18"/>
+      <stop offset="0.5" stop-color="#E8C67A" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#E8C67A" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <style>
+    @keyframes twk { 0%, 100% { opacity: 0.5; } 50% { opacity: 1; } }
+    .tw-a { animation: twk 7.5s ease-in-out infinite; }
+    .tw-b { animation: twk 9s ease-in-out infinite; animation-delay: -3.2s; }
+    .tw-c { animation: twk 8.2s ease-in-out infinite; animation-delay: -5.4s; }
+    @keyframes breathe { 0%, 100% { opacity: 0.82; } 50% { opacity: 1; } }
+    .halo { animation: breathe 11s ease-in-out infinite; }
+    .m { display: none; }
+    @media (max-width: 520px) { .d { display: none; } .m { display: block; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+
+  <g class="d">
+  <g transform="translate(-45 0)">
+  <path d="M594 208 C613.7 198.3 670 147.7 712 150 C754 152.3 803.3 224 846 222 C888.7 220 932.3 149.7 968 138 C1003.7 126.3 1044.7 149.7 1060 152" fill="none" stroke="url(#band)" stroke-width="32" filter="url(#soft)"/>
+
+  <!-- three stars sit behind the thread: the weave -->
+  <g>
+  <circle cx="676" cy="157.8" r="3.4" fill="#1E2E52" opacity="1" class="tw-b"/>
+  <circle cx="826" cy="218.3" r="2.3" fill="#1E2E52" opacity="1"/>
+  <circle cx="1038" cy="141" r="2.3" fill="#1E2E52" opacity="1"/>
+  </g>
+
+  <!-- the thread of starlight -->
+  <g fill="none" stroke-linecap="round">
+    <path d="M594 208 C613.7 198.3 670 147.7 712 150 C754 152.3 803.3 224 846 222 C888.7 220 932.3 149.7 968 138 C1003.7 126.3 1044.7 149.7 1060 152" stroke="url(#thread)" stroke-width="1.6"/>
+  </g>
+
+  <g>
+  <circle cx="640" cy="185.4" r="2.2" fill="#1E2E52" opacity="1" class="tw-a"/>
+  <circle cx="748" cy="164.7" r="2.5" fill="#1E2E52" opacity="1"/>
+  <circle cx="792" cy="203.8" r="4.8" fill="#1E2E52" opacity="1" class="tw-c"/>
+  <path d="M792 203.1 L792.1 203.7 L793 203.8 L792.1 203.9 L792 204.5 L791.9 203.9 L791 203.8 L791.9 203.7Z" fill="#17223B" opacity="0.5" transform="rotate(-8 792 203.8)"/>
+  <circle cx="902" cy="176.6" r="3" fill="#1E2E52" opacity="1"/>
+  <circle cx="1008" cy="138.5" r="3.4" fill="#1E2E52" opacity="1"/>
+  <circle cx="742" cy="100.9" r="2.7" fill="#1E2E52" opacity="1" class="tw-b"/>
+  <circle cx="862" cy="172.3" r="3.6" fill="#1E2E52" opacity="1"/>
+  </g>
+
+  <g class="halo">
+    <circle cx="968" cy="138" r="88" fill="url(#bloom)"/>
+  </g>
+  <path d="M968 118 L972.2 134.5 L992 138 L972.2 141.5 L968 158 L963.8 141.5 L944 138 L963.8 134.5Z" fill="#8A5F19" opacity="0.9"/>
+  <circle cx="968" cy="138" r="2.8" fill="#17223B"/>
+
+  <!-- stardust -->
+  <g>
+    <circle cx="934" cy="92" r="1" fill="#5B6B88" opacity="0.31"/>
+    <circle cx="956" cy="88" r="0.8" fill="#5B6B88" opacity="0.21"/>
+    <circle cx="914" cy="112" r="0.9" fill="#5B6B88" opacity="0.26"/>
+    <circle cx="990" cy="104" r="1.1" fill="#5B6B88" opacity="0.36"/>
+    <circle cx="1004" cy="80" r="0.8" fill="#5B6B88" opacity="0.21"/>
+    <circle cx="944" cy="72" r="0.7" fill="#5B6B88" opacity="0.16"/>
+    <circle cx="618" cy="180" r="1.1" fill="#5B6B88" opacity="0.36"/>
+    <circle cx="700" cy="186" r="0.9" fill="#5B6B88" opacity="0.26"/>
+    <circle cx="770" cy="204" r="1" fill="#5B6B88" opacity="0.31"/>
+    <circle cx="880" cy="194" r="0.8" fill="#5B6B88" opacity="0.21"/>
+    <circle cx="1040" cy="142" r="0.9" fill="#5B6B88" opacity="0.26"/>
+    <circle cx="984" cy="224" r="1" fill="#5B6B88" opacity="0.31"/>
+    <circle cx="1028" cy="204" r="0.8" fill="#5B6B88" opacity="0.21"/>
+    <circle cx="904" cy="242" r="0.9" fill="#5B6B88" opacity="0.26"/>
+    <circle cx="864" cy="238" r="0.7" fill="#5B6B88" opacity="0.16"/>
+    <circle cx="628" cy="112" r="1" fill="#5B6B88" opacity="0.31"/>
+    <circle cx="688" cy="88" r="0.8" fill="#5B6B88" opacity="0.21"/>
+    <circle cx="800" cy="76" r="1.1" fill="#5B6B88" opacity="0.36"/>
+    <circle cx="1012" cy="168" r="0.8" fill="#5B6B88" opacity="0.21"/>
+  </g>
+  </g>
+
+  <g>
+    <!-- name: 84 x 298/1120 = 22.3px at the 298px phone width (mobile layout enlarges it) -->
+    <text x="2" y="119" fill="#17223B" font-family='"Noto Serif SC","Source Han Serif SC","Noto Serif CJK SC","Songti SC","SimSun",Georgia,serif' font-size="84" letter-spacing="12">未來星織</text>
+    <!-- alias -->
+    <text x="2" y="166" fill="#5B6B88" font-family='"Segoe UI",-apple-system,"PingFang SC","Microsoft YaHei","Noto Sans CJK SC","Helvetica Neue",Arial,sans-serif' font-size="23" letter-spacing="5">达X / Dax</text>
+    <!-- motto -->
+    <text x="2" y="228" fill="#8A5F19" font-family='"Noto Serif SC","Source Han Serif SC","Noto Serif CJK SC","Songti SC","SimSun",Georgia,serif' font-size="42" letter-spacing="3">用心织梦，以梦织星</text>
+  </g>
+  </g>
+
+  <g class="m">
+  <path d="M620 208 C640.3 196.3 701.3 140 742 138 C782.7 136 823.3 200.3 864 196 C904.7 191.7 954 119.7 986 112 C1018 104.3 1044.3 143.7 1056 150" fill="none" stroke="url(#band)" stroke-width="30" filter="url(#soft)"/>
+
+  <!-- compact weave for narrow screens -->
+  <g fill="none" stroke-linecap="round">
+    <path d="M620 208 C640.3 196.3 701.3 140 742 138 C782.7 136 823.3 200.3 864 196 C904.7 191.7 954 119.7 986 112 C1018 104.3 1044.3 143.7 1056 150" stroke="url(#thread)" stroke-width="3"/>
+  </g>
+
+  <g>
+  <circle cx="668" cy="173.1" r="5.6" fill="#1E2E52" opacity="1" class="tw-a"/>
+  <circle cx="792" cy="161.7" r="4.6" fill="#1E2E52" opacity="1" class="tw-b"/>
+  <circle cx="1032" cy="126.6" r="4.2" fill="#1E2E52" opacity="1" class="tw-c"/>
+  <circle cx="820" cy="102.2" r="4.6" fill="#1E2E52" opacity="1"/>
+  </g>
+
+  <g class="halo">
+    <circle cx="986" cy="112" r="70" fill="url(#bloom)"/>
+  </g>
+  <path d="M986 87 L991.1 107.6 L1015 112 L991.1 116.4 L986 137 L980.9 116.4 L957 112 L980.9 107.6Z" fill="#8A5F19" opacity="0.95"/>
+  <circle cx="986" cy="112" r="3.4" fill="#17223B"/>
+
+  <g>
+    <!-- mobile name: 130 x 298/1120 = 34.6px on a phone -->
+    <text x="2" y="124" fill="#17223B" font-family='"Noto Serif SC","Source Han Serif SC","Noto Serif CJK SC","Songti SC","SimSun",Georgia,serif' font-size="130" letter-spacing="13">未來星織</text>
+    <!-- mobile alias -->
+    <text x="2" y="180" fill="#5B6B88" font-family='"Segoe UI",-apple-system,"PingFang SC","Microsoft YaHei","Noto Sans CJK SC","Helvetica Neue",Arial,sans-serif' font-size="38" letter-spacing="7">达X / Dax</text>
+    <!-- mobile motto: 60 x 298/1120 = 16.0px on a phone -->
+    <text x="2" y="254" fill="#8A5F19" font-family='"Noto Serif SC","Source Han Serif SC","Noto Serif CJK SC","Songti SC","SimSun",Georgia,serif' font-size="60" letter-spacing="4">用心织梦，以梦织星</text>
+  </g>
+  </g>
+</svg>

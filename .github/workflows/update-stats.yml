@@ -1,0 +1,55 @@
+# Refresh the "星织 / Starweave" stats panel rendered into
+# assets/stats-dark.svg and assets/stats-light.svg.
+#
+# scripts/update-stats.mjs fetches public GitHub data (user, repos, per-repo
+# languages, public contribution calendar), renders both SVGs and rewrites
+# scripts/stats-data.json only when the underlying numbers change — so a quiet
+# day produces no commit at all. The GITHUB_TOKEN below is the repository's own
+# token (contents: write); no extra secrets are needed for a public profile.
+name: refresh stats panel
+
+on:
+  schedule:
+    # 04:17 Asia/Shanghai (20:17 UTC) — a fresh panel before the day starts.
+    - cron: "17 20 * * *"
+
+  # allows a manual run from the Actions tab at any time
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-stats-panel
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Regenerate stats panel
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/update-stats.mjs
+
+      - name: Commit only when the panel changed
+        run: |
+          if [ -z "$(git status --porcelain -- assets/stats-dark.svg assets/stats-light.svg scripts/stats-data.json)" ]; then
+            echo "No changes to the stats panel — nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats-dark.svg assets/stats-light.svg scripts/stats-data.json
+          git commit -m "chore(stats): refresh profile stats panel"
+          git push
