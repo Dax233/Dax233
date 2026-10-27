@@ -1,56 +1,56 @@
 {
  "schema": 1,
  "owner": "Dax233",
- "updated": "2026-10-26T20:28:37.351Z",
+ "updated": "2026-10-27T20:21:38.728Z",
  "year": 2026,
  "metrics": {
   "stars": 25,
-  "followers": 26,
+  "followers": 27,
   "repos": 45,
-  "contributions": 370
+  "contributions": 405
  },
  "streak": {
-  "current": 5,
-  "longest": 5
+  "current": 6,
+  "longest": 6
  },
- "activeDays": 56,
+ "activeDays": 57,
  "languages": {
-  "totalBytes": 2745256,
+  "totalBytes": 2856034,
   "items": [
    {
     "name": "JavaScript",
-    "bytes": 1349555,
-    "pct": 49.2
+    "bytes": 1455498,
+    "pct": 51
    },
    {
     "name": "Python",
     "bytes": 735696,
-    "pct": 26.8
+    "pct": 25.8
    },
    {
     "name": "TypeScript",
-    "bytes": 222131,
-    "pct": 8.1
+    "bytes": 226966,
+    "pct": 7.9
    },
    {
     "name": "CSS",
     "bytes": 161391,
-    "pct": 5.9
+    "pct": 5.7
    },
    {
     "name": "HTML",
     "bytes": 129269,
-    "pct": 4.7
+    "pct": 4.5
    },
    {
     "name": "PHP",
     "bytes": 110977,
-    "pct": 4
+    "pct": 3.9
    },
    {
     "name": "Vue",
     "bytes": 31850,
-    "pct": 1.2
+    "pct": 1.1
    },
    {
     "name": "VBA",

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 846 320" width="846" height="320" role="img" aria-labelledby="statsTitle statsDesc">
   <title id="statsTitle">Dax233 — 星织 · 数据面板 / Starweave stats</title>
-  <desc id="statsDesc">Public GitHub data for Dax233. 25 stars across public non-fork repositories, 26 followers, 45 public repositories, 370 contributions in 2026 (5-day current streak). Languages (by bytes): JavaScript 49.2%, Python 26.8%, TypeScript 8.1%, CSS 5.9%, HTML 4.7%, 其他 5.4%. 数据来自 GitHub 公开数据 · 每日自动更新 (public GitHub data, refreshed daily).</desc>
+  <desc id="statsDesc">Public GitHub data for Dax233. 25 stars across public non-fork repositories, 27 followers, 45 public repositories, 405 contributions in 2026 (6-day current streak). Languages (by bytes): JavaScript 51.0%, Python 25.8%, TypeScript 7.9%, CSS 5.7%, HTML 4.5%, 其他 5.2%. 数据来自 GitHub 公开数据 · 每日自动更新 (public GitHub data, refreshed daily).</desc>
   <style>
     /* Desktop is the default. When the image is displayed at 520 CSS px or narrower
        (the phone width measured for the GitHub profile README), switch to
@@ -37,11 +37,11 @@
     <text x="40" y="72" fill="#93A3BF" font-family='"Segoe UI",-apple-system,"PingFang SC","Microsoft YaHei","Helvetica Neue",Arial,sans-serif' font-size="26" letter-spacing="1.2">星标</text>
     <text x="40" y="142" fill="#F4EDDF" font-family='"Noto Serif SC","Source Han Serif SC","Songti SC","SimSun",Georgia,serif' font-size="64">25</text>
     <text x="236" y="72" fill="#93A3BF" font-family='"Segoe UI",-apple-system,"PingFang SC","Microsoft YaHei","Helvetica Neue",Arial,sans-serif' font-size="26" letter-spacing="1.2">关注</text>
-    <text x="236" y="142" fill="#F4EDDF" font-family='"Noto Serif SC","Source Han Serif SC","Songti SC","SimSun",Georgia,serif' font-size="64">26</text>
+    <text x="236" y="142" fill="#F4EDDF" font-family='"Noto Serif SC","Source Han Serif SC","Songti SC","SimSun",Georgia,serif' font-size="64">27</text>
     <text x="40" y="198" fill="#93A3BF" font-family='"Segoe UI",-apple-system,"PingFang SC","Microsoft YaHei","Helvetica Neue",Arial,sans-serif' font-size="26" letter-spacing="1.2">仓库</text>
     <text x="40" y="268" fill="#F4EDDF" font-family='"Noto Serif SC","Source Han Serif SC","Songti SC","SimSun",Georgia,serif' font-size="64">45</text>
     <text x="236" y="198" fill="#93A3BF" font-family='"Segoe UI",-apple-system,"PingFang SC","Microsoft YaHei","Helvetica Neue",Arial,sans-serif' font-size="26" letter-spacing="1.2">今年贡献</text>
-    <text x="236" y="268" fill="#E8C67A" font-family='"Noto Serif SC","Source Han Serif SC","Songti SC","SimSun",Georgia,serif' font-size="64">370</text>
+    <text x="236" y="268" fill="#E8C67A" font-family='"Noto Serif SC","Source Han Serif SC","Songti SC","SimSun",Georgia,serif' font-size="64">405</text>
     </g>
 
     <!-- a single thread of light stitched between the two halves -->
@@ -53,28 +53,28 @@
       <text x="440" y="72" fill="#93A3BF" font-size="24" letter-spacing="2.4">语言构成</text>
     <text x="440" y="104" fill="#93A3BF" font-size="24.5">JavaScript</text>
     <rect x="584" y="95.3" width="136" height="1.5" fill="#93A3BF" opacity="0.16"/>
-    <rect x="584" y="93.3" width="66.9" height="5.5" rx="2.75" fill="#93A3BF"/>
-    <text x="806" y="104" text-anchor="end" fill="#93A3BF" font-size="24.5">49.2%</text>
+    <rect x="584" y="93.3" width="69.4" height="5.5" rx="2.75" fill="#93A3BF"/>
+    <text x="806" y="104" text-anchor="end" fill="#93A3BF" font-size="24.5">51.0%</text>
     <text x="440" y="138" fill="#93A3BF" font-size="24.5">Python</text>
     <rect x="584" y="129.3" width="136" height="1.5" fill="#93A3BF" opacity="0.16"/>
-    <rect x="584" y="127.3" width="36.4" height="5.5" rx="2.75" fill="#93A3BF"/>
-    <text x="806" y="138" text-anchor="end" fill="#93A3BF" font-size="24.5">26.8%</text>
+    <rect x="584" y="127.3" width="35.1" height="5.5" rx="2.75" fill="#93A3BF"/>
+    <text x="806" y="138" text-anchor="end" fill="#93A3BF" font-size="24.5">25.8%</text>
     <text x="440" y="172" fill="#93A3BF" font-size="24.5">TypeScript</text>
     <rect x="584" y="163.3" width="136" height="1.5" fill="#93A3BF" opacity="0.16"/>
-    <rect x="584" y="161.3" width="11" height="5.5" rx="2.75" fill="#93A3BF"/>
-    <text x="806" y="172" text-anchor="end" fill="#93A3BF" font-size="24.5">8.1%</text>
+    <rect x="584" y="161.3" width="10.7" height="5.5" rx="2.75" fill="#93A3BF"/>
+    <text x="806" y="172" text-anchor="end" fill="#93A3BF" font-size="24.5">7.9%</text>
     <text x="440" y="206" fill="#93A3BF" font-size="24.5">CSS</text>
     <rect x="584" y="197.3" width="136" height="1.5" fill="#93A3BF" opacity="0.16"/>
-    <rect x="584" y="195.3" width="8" height="5.5" rx="2.75" fill="#93A3BF"/>
-    <text x="806" y="206" text-anchor="end" fill="#93A3BF" font-size="24.5">5.9%</text>
+    <rect x="584" y="195.3" width="7.8" height="5.5" rx="2.75" fill="#93A3BF"/>
+    <text x="806" y="206" text-anchor="end" fill="#93A3BF" font-size="24.5">5.7%</text>
     <text x="440" y="240" fill="#93A3BF" font-size="24.5">HTML</text>
     <rect x="584" y="231.3" width="136" height="1.5" fill="#93A3BF" opacity="0.16"/>
-    <rect x="584" y="229.3" width="6.4" height="5.5" rx="2.75" fill="#93A3BF"/>
-    <text x="806" y="240" text-anchor="end" fill="#93A3BF" font-size="24.5">4.7%</text>
+    <rect x="584" y="229.3" width="6.1" height="5.5" rx="2.75" fill="#93A3BF"/>
+    <text x="806" y="240" text-anchor="end" fill="#93A3BF" font-size="24.5">4.5%</text>
     <text x="440" y="274" fill="#93A3BF" font-size="24.5">其他</text>
     <rect x="584" y="265.3" width="136" height="1.5" fill="#93A3BF" opacity="0.16"/>
-    <rect x="584" y="263.3" width="7.3" height="5.5" rx="2.75" fill="#93A3BF"/>
-    <text x="806" y="274" text-anchor="end" fill="#93A3BF" font-size="24.5">5.4%</text>
+    <rect x="584" y="263.3" width="7.1" height="5.5" rx="2.75" fill="#93A3BF"/>
+    <text x="806" y="274" text-anchor="end" fill="#93A3BF" font-size="24.5">5.2%</text>
     </g>
   </g>
 
@@ -83,11 +83,11 @@
     <text x="40" y="82" fill="#93A3BF" font-family='"Segoe UI",-apple-system,"PingFang SC","Microsoft YaHei","Helvetica Neue",Arial,sans-serif' font-size="30" letter-spacing="1.4">星标</text>
     <text x="40" y="178" fill="#F4EDDF" font-family='"Noto Serif SC","Source Han Serif SC","Songti SC","SimSun",Georgia,serif' font-size="84">25</text>
     <text x="232" y="82" fill="#93A3BF" font-family='"Segoe UI",-apple-system,"PingFang SC","Microsoft YaHei","Helvetica Neue",Arial,sans-serif' font-size="30" letter-spacing="1.4">关注</text>
-    <text x="232" y="178" fill="#F4EDDF" font-family='"Noto Serif SC","Source Han Serif SC","Songti SC","SimSun",Georgia,serif' font-size="84">26</text>
+    <text x="232" y="178" fill="#F4EDDF" font-family='"Noto Serif SC","Source Han Serif SC","Songti SC","SimSun",Georgia,serif' font-size="84">27</text>
     <text x="423" y="82" fill="#93A3BF" font-family='"Segoe UI",-apple-system,"PingFang SC","Microsoft YaHei","Helvetica Neue",Arial,sans-serif' font-size="30" letter-spacing="1.4">仓库</text>
     <text x="423" y="178" fill="#F4EDDF" font-family='"Noto Serif SC","Source Han Serif SC","Songti SC","SimSun",Georgia,serif' font-size="84">45</text>
     <text x="615" y="82" fill="#93A3BF" font-family='"Segoe UI",-apple-system,"PingFang SC","Microsoft YaHei","Helvetica Neue",Arial,sans-serif' font-size="30" letter-spacing="1.4">今年贡献</text>
-    <text x="615" y="178" fill="#E8C67A" font-family='"Noto Serif SC","Source Han Serif SC","Songti SC","SimSun",Georgia,serif' font-size="84">370</text>
+    <text x="615" y="178" fill="#E8C67A" font-family='"Noto Serif SC","Source Han Serif SC","Songti SC","SimSun",Georgia,serif' font-size="84">405</text>
     </g>
 
     <!-- on mobile the seam lies down: one horizontal thread, then three language bars -->
@@ -96,17 +96,17 @@
 
     <g font-family='"Segoe UI",-apple-system,"PingFang SC","Microsoft YaHei","Helvetica Neue",Arial,sans-serif' font-variant-numeric="tabular-nums">
     <text x="40" y="246" fill="#93A3BF" font-size="26">JavaScript</text>
-    <text x="264" y="246" text-anchor="end" fill="#93A3BF" font-size="26">49.2%</text>
+    <text x="264" y="246" text-anchor="end" fill="#93A3BF" font-size="26">51.0%</text>
     <rect x="40" y="261.5" width="224" height="1.5" fill="#93A3BF" opacity="0.16"/>
-    <rect x="40" y="258.5" width="110.2" height="7" rx="3.5" fill="#93A3BF"/>
+    <rect x="40" y="258.5" width="114.2" height="7" rx="3.5" fill="#93A3BF"/>
     <text x="296" y="246" fill="#93A3BF" font-size="26">Python</text>
-    <text x="520" y="246" text-anchor="end" fill="#93A3BF" font-size="26">26.8%</text>
+    <text x="520" y="246" text-anchor="end" fill="#93A3BF" font-size="26">25.8%</text>
     <rect x="296" y="261.5" width="224" height="1.5" fill="#93A3BF" opacity="0.16"/>
-    <rect x="296" y="258.5" width="60" height="7" rx="3.5" fill="#93A3BF"/>
+    <rect x="296" y="258.5" width="57.8" height="7" rx="3.5" fill="#93A3BF"/>
     <text x="552" y="246" fill="#93A3BF" font-size="26">TypeScript</text>
-    <text x="776" y="246" text-anchor="end" fill="#93A3BF" font-size="26">8.1%</text>
+    <text x="776" y="246" text-anchor="end" fill="#93A3BF" font-size="26">7.9%</text>
     <rect x="552" y="261.5" width="224" height="1.5" fill="#93A3BF" opacity="0.16"/>
-    <rect x="552" y="258.5" width="18.1" height="7" rx="3.5" fill="#93A3BF"/>
+    <rect x="552" y="258.5" width="17.7" height="7" rx="3.5" fill="#93A3BF"/>
     </g>
   </g>
 </svg>
