@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 846 320" width="846" height="320" role="img" aria-labelledby="statsTitle statsDesc">
   <title id="statsTitle">Dax233 — 星织 · 数据面板 / Starweave stats</title>
-  <desc id="statsDesc">Public GitHub data for Dax233. 25 stars across public non-fork repositories, 26 followers, 47 public repositories, 434 contributions in 2026 (7-day current streak). Languages (by bytes): JavaScript 54.5%, Python 23.9%, TypeScript 7.4%, CSS 5.2%, HTML 4.2%, 其他 4.8%. 数据来自 GitHub 公开数据 · 每日自动更新 (public GitHub data, refreshed daily).</desc>
+  <desc id="statsDesc">Public GitHub data for Dax233. 25 stars across public non-fork repositories, 26 followers, 47 public repositories, 435 contributions in 2026 (1-day current streak). Languages (by bytes): JavaScript 54.5%, Python 23.9%, TypeScript 7.4%, CSS 5.2%, HTML 4.2%, 其他 4.8%. 数据来自 GitHub 公开数据 · 每日自动更新 (public GitHub data, refreshed daily).</desc>
   <style>
     /* Desktop is the default. When the image is displayed at 520 CSS px or narrower
        (the phone width measured for the GitHub profile README), switch to
@@ -41,7 +41,7 @@
     <text x="40" y="198" fill="#5B6B88" font-family='"Segoe UI",-apple-system,"PingFang SC","Microsoft YaHei","Helvetica Neue",Arial,sans-serif' font-size="26" letter-spacing="1.2">仓库</text>
     <text x="40" y="268" fill="#17223B" font-family='"Noto Serif SC","Source Han Serif SC","Songti SC","SimSun",Georgia,serif' font-size="64">47</text>
     <text x="236" y="198" fill="#5B6B88" font-family='"Segoe UI",-apple-system,"PingFang SC","Microsoft YaHei","Helvetica Neue",Arial,sans-serif' font-size="26" letter-spacing="1.2">今年贡献</text>
-    <text x="236" y="268" fill="#8A5F19" font-family='"Noto Serif SC","Source Han Serif SC","Songti SC","SimSun",Georgia,serif' font-size="64">434</text>
+    <text x="236" y="268" fill="#8A5F19" font-family='"Noto Serif SC","Source Han Serif SC","Songti SC","SimSun",Georgia,serif' font-size="64">435</text>
     </g>
 
     <!-- a single thread of light stitched between the two halves -->
@@ -87,7 +87,7 @@
     <text x="423" y="82" fill="#5B6B88" font-family='"Segoe UI",-apple-system,"PingFang SC","Microsoft YaHei","Helvetica Neue",Arial,sans-serif' font-size="30" letter-spacing="1.4">仓库</text>
     <text x="423" y="178" fill="#17223B" font-family='"Noto Serif SC","Source Han Serif SC","Songti SC","SimSun",Georgia,serif' font-size="84">47</text>
     <text x="615" y="82" fill="#5B6B88" font-family='"Segoe UI",-apple-system,"PingFang SC","Microsoft YaHei","Helvetica Neue",Arial,sans-serif' font-size="30" letter-spacing="1.4">今年贡献</text>
-    <text x="615" y="178" fill="#8A5F19" font-family='"Noto Serif SC","Source Han Serif SC","Songti SC","SimSun",Georgia,serif' font-size="84">434</text>
+    <text x="615" y="178" fill="#8A5F19" font-family='"Noto Serif SC","Source Han Serif SC","Songti SC","SimSun",Georgia,serif' font-size="84">435</text>
     </g>
 
     <!-- on mobile the seam lies down: one horizontal thread, then three language bars -->
