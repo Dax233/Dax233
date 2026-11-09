@@ -1,11 +1,11 @@
 {
  "schema": 1,
  "owner": "Dax233",
- "updated": "2026-11-08T20:19:11.523Z",
+ "updated": "2026-11-09T20:19:40.063Z",
  "year": 2026,
  "metrics": {
   "stars": 25,
-  "followers": 27,
+  "followers": 26,
   "repos": 48,
   "contributions": 449
  },
@@ -15,17 +15,17 @@
  },
  "activeDays": 63,
  "languages": {
-  "totalBytes": 3205061,
+  "totalBytes": 3236985,
   "items": [
    {
     "name": "JavaScript",
     "bytes": 1799251,
-    "pct": 56.1
+    "pct": 55.6
    },
    {
     "name": "Python",
-    "bytes": 735696,
-    "pct": 23
+    "bytes": 767620,
+    "pct": 23.7
    },
    {
     "name": "TypeScript",
@@ -45,7 +45,7 @@
    {
     "name": "PHP",
     "bytes": 110977,
-    "pct": 3.5
+    "pct": 3.4
    },
    {
     "name": "Vue",
