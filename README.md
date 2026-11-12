@@ -25,6 +25,14 @@
 
 你在用 DSH 的话，欢迎拿去试试；缺什么，去仓库提个 issue 就好。
 
+## 合作
+
+接小项目：AI 工具链配置与排错、Python 自动化脚本、二进制/文件格式解析。范围先对齐、报价后开工，交付时附使用说明。
+
+Open to small paid work: AI tooling setup, Python automation, file-format analysis. Scope first, fixed quote, written handover.
+
+联系：bakadax@qq.com
+
 ## 做过的一些东西
 
 - **[AICPxlsUnpacker](https://github.com/Dax233/AICPxlsUnpacker)**：拆 Alice In Cradle 资源包
