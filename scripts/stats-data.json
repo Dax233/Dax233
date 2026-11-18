@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "owner": "Dax233",
- "updated": "2026-11-16T20:20:17.271Z",
+ "updated": "2026-11-18T20:19:38.037Z",
  "year": 2026,
  "metrics": {
   "stars": 25,
@@ -10,7 +10,7 @@
   "contributions": 528
  },
  "streak": {
-  "current": 1,
+  "current": 0,
   "longest": 7
  },
  "activeDays": 68,
